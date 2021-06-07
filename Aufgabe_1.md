@@ -1,7 +1,7 @@
 Aufgabe MALIS 20.3 
 WPM_T9.1: Data Science / Data Librarianship / IT-Praxis
 Autorin: Magdalena Hagemann
-Datum: 16.05.2021
+Datum: 23.05.2021
 
 
 **1.	Einführung:**
